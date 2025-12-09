@@ -1,2 +1,0 @@
-إبراهيم عبد المنعم الدسوقي 
->m.py . mohamed 1 from tkinter import * import webbrowser root Tk () root.geometry('s08x400') root.title(' Home") def fun(): webbr owSer.open (r"https ://yout u.be/8-6YqxYAk de?si= LMtScewCoxeM14X9") btn=Button (root,commandefun , text-°click me',width=' 12*, height-' 3*,fg-'white' , bg-'black' , font"25') btn.pack() root .malnloop () 
