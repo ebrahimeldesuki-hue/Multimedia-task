@@ -1,0 +1,9 @@
+from tkinter import
+import webbrowser
+root=Tk()
+root.geometry('500×500')
+root.title('Home')
+Def fun():
+webbrowser.open(r'https://www.facebook.com/share/1Eyc2We9Hc/')
+btn=Button(root,command=fun,text='click me',width='12',height='3',fg='white',bg='black',font='25')btn.pack()
+root.mainloop()
